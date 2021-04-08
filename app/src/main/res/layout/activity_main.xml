@@ -76,4 +76,12 @@
         android:textColor="#ff0000"
         android:text="@string/t1"
         />
+    <TextView
+        android:id="@+id/edit2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="숫자 2"
+        android:inputType=""
+        android:text="@string/edit2"
+        />
 </LeniearLayout>
